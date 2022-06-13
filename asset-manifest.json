@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Expertia/static/css/main.3cff2fb3.chunk.css",
+    "main.js": "/Expertia/static/js/main.7eb27257.chunk.js",
+    "main.js.map": "/Expertia/static/js/main.7eb27257.chunk.js.map",
+    "runtime-main.js": "/Expertia/static/js/runtime-main.ebb0b816.js",
+    "runtime-main.js.map": "/Expertia/static/js/runtime-main.ebb0b816.js.map",
+    "static/css/2.8366f796.chunk.css": "/Expertia/static/css/2.8366f796.chunk.css",
+    "static/js/2.a0a6e4f4.chunk.js": "/Expertia/static/js/2.a0a6e4f4.chunk.js",
+    "static/js/2.a0a6e4f4.chunk.js.map": "/Expertia/static/js/2.a0a6e4f4.chunk.js.map",
+    "index.html": "/Expertia/index.html",
+    "static/css/2.8366f796.chunk.css.map": "/Expertia/static/css/2.8366f796.chunk.css.map",
+    "static/css/main.3cff2fb3.chunk.css.map": "/Expertia/static/css/main.3cff2fb3.chunk.css.map",
+    "static/js/2.a0a6e4f4.chunk.js.LICENSE.txt": "/Expertia/static/js/2.a0a6e4f4.chunk.js.LICENSE.txt",
+    "static/media/Dummy.c4d8c06a.png": "/Expertia/static/media/Dummy.c4d8c06a.png",
+    "static/media/index.css": "/Expertia/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/devs.a9c354fd.jpg": "/Expertia/static/media/devs.a9c354fd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ebb0b816.js",
+    "static/css/2.8366f796.chunk.css",
+    "static/js/2.a0a6e4f4.chunk.js",
+    "static/css/main.3cff2fb3.chunk.css",
+    "static/js/main.7eb27257.chunk.js"
+  ]
+}
